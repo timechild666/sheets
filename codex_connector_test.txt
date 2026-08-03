@@ -1,3 +1,0 @@
-GitHub connector write test.
-Created by Codex on 2026-08-03.
-Safe to delete during the later deletion test.
